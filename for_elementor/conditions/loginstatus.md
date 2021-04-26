@@ -19,7 +19,7 @@ Here is two condition feature you will get, __Logged in__ or __logged out__.
 * Select Login Status condition
 
 ##### Step one :
-[![login status condition how to apply](/for_elementor/images/loginss1.png)
+![login status condition how to apply](/for_elementor/images/loginss1.png)
 
 ##### Step two :
-[![login status condition how to apply](/for_elementor/images/loginss2.png)
+![login status condition how to apply](/for_elementor/images/loginss2.png)
