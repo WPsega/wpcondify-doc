@@ -15,7 +15,7 @@ Basically, WPCondify collects your user role from WordPress within the User Role
 * Now select the User Role condition and set your content.
 
 ##### Step one:
-![wpcondify how to apply](/for_elementor/images/userrolesc1.png)<img src="/for_elementor/images/userrolesc1.png" alt="userole" width="150"/>
+![wpcondify how to apply](<img src="/for_elementor/images/userrolesc1.png" alt="userole" width="150"/>)
 
 ##### Step two:
 ![wpcondify how to apply](/for_elementor/images/userroless2.png)
