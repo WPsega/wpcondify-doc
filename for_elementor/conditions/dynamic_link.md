@@ -5,7 +5,7 @@ Let see how to use it in condition
 
 Condition will be as follows: 
 
-* Black Friday offer content should be shown by clicking on dynamic link: 
+* offer content should be shown by clicking on dynamic link: 
 Now setting up  WPCondify condition on widgets:
 
 * Enable WPCondify from the widgets Advanced Tab.
