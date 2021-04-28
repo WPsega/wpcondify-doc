@@ -13,7 +13,7 @@
 
 ##### How to apply conditions–
 
-**1** Select the widget and Enable WPCondify.
+**1.** Select the widget and Enable WPCondify.
 
 <img src="/for_elementor/images/browserss1.png" alt="userole" width="300"/>
 
