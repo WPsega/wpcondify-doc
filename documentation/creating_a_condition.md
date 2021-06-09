@@ -7,4 +7,4 @@
 4. If you want more conditon to add you can add as you want, no limit here.
 5. On the publish section **push** the **create condtion** button.
 
-<img src="/documentation/image/createcondition.png" alt="userole" width="300"/>
+<img src="/documentation/image/createcondition.png" alt="userole" width="600"/>
