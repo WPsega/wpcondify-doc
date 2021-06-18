@@ -17,6 +17,7 @@ You can apply your conditions from Wordpress editor(Gutenberg),pages,posts and s
 ##### Applying a condition from Gutenberg :
 1. Go to Wordpress editor gutenberg on the **bottom right corner** from WPCondify select a condition and **update** the page. 
 **Note:** This condition applied on a page not seperately contents.
+
 **For example:**
 <img src="/documentation/image/gutenberg.png" alt="userole" width="500"/>
 
