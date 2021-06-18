@@ -20,6 +20,6 @@ You can apply your conditions from Wordpress editor(Gutenberg),pages,posts and s
 **For example:**
 <img src="/documentation/image/gutenberg.png" alt="userole" width="500"/>
 
-2. For any single contents on page just select the content from gutenberg,on the right side **apply wpcondify**, then select a condition and update.
+2. For any single contents on page just select the content from gutenberg,on the right side **apply wpcondify**, then **select a condition** and update.
 <img src="/documentation/image/singlecontent1.png" alt="userole" width="400"/>
 <img src="/documentation/image/singlecontent2.png" alt="userole" width="400"/>
