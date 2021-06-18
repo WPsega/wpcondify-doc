@@ -18,8 +18,8 @@ You can apply your conditions from Wordpress editor(Gutenberg),pages,posts and s
 1. Go to Wordpress editor gutenberg on the **bottom right corner** from WPCondify select a condition and **update** the page. 
 **Note:** This condition applied on a page not seperately contents.
 
-**For example:**
-<img src="/documentation/image/gutenberg.png" alt="userole" width="500"/>
+
+**For example:** <img src="/documentation/image/gutenberg.png" alt="userole" width="500"/>
 
 2. For any single contents on page just select the content from gutenberg,on the right side **apply wpcondify**, then **select a condition** and update.
 <img src="/documentation/image/singlecontent1.png" alt="userole" width="400"/>
